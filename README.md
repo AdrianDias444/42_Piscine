@@ -33,8 +33,8 @@ The main goal of this repository is to document my journey and progression durin
 
 ## 🛠️ Compilation
 
-Most C projects in this repository can be compiled using `gcc` and a provided `Makefile`.
+Each C exercise is compiled individually using `gcc`.
 
-Navigate to a project directory (e.g., `C_00`) and run:
+**Basic compilation:**
 ```bash
-make
+gcc file_name.c -o output_name
