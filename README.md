@@ -15,7 +15,6 @@ This repository includes my work on the following projects from the Pool curricu
 *   **C 00:** First steps in C - pointers, arrays, and basic functions.
 *   **C 01:** Pointers, memory allocation, and more advanced concepts.
 *   **C 02:** String manipulation, character arrays, and complex logic.
-*   **...** *(Add the specific projects you completed)*
 *   **Rush 00 / Exam:** Timed group projects and individual exams.
 
 ## 🎯 Purpose
